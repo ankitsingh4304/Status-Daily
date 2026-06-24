@@ -1,0 +1,93 @@
+{
+  "common": {
+    "continue": "पुढे जा",
+    "appName": "Status Daily",
+    "loading": "लोड होत आहे…",
+    "share": "शेअर"
+  },
+  "tabs": {
+    "home": "होम",
+    "explore": "एक्सप्लोर",
+    "upload": "अपलोड",
+    "saved": "सेव्ह",
+    "profile": "प्रोफाइल",
+    "studio": "स्टुडिओ",
+    "reels": "रील्स"
+  },
+  "home": {
+    "categories": {
+      "all": "सर्व",
+      "happy": "आनंदी",
+      "sad": "दुःखी",
+      "goodMorning": "शुभ प्रभात",
+      "goodNight": "शुभ रात्री",
+      "friendship": "मैत्री",
+      "love": "प्रेम",
+      "motivational": "प्रेरणा",
+      "devotional": "भक्ती",
+      "festival": "सण",
+      "shayari": "शायरी",
+      "birthday": "वाढदिवस",
+      "anniversary": "वर्धापन",
+      "attitude": "अ‍ॅटिट्यूड",
+      "emotional": "भावनिक"
+    },
+    "actions": {
+      "position": "स्थान",
+      "edit": "एडिट",
+      "download": "सेव्ह",
+      "shareStatus": "स्टेटस"
+    },
+    "views": "व्यू",
+    "likes": "लाइक"
+  },
+  "onboarding": {
+    "profile": {
+      "title": "तुमची प्रोफाइल सेट करा",
+      "subtitle": "तुमच्याबद्दल सांगा",
+      "photoHint": "प्रोफाइल फोटो जोडा (पर्यायी)",
+      "nameLabel": "तुमचे नाव",
+      "namePlaceholder": "तुमचे नाव लिहा",
+      "languageLabel": "तुमची भाषा निवडा",
+      "nameError": "कृपया किमान 2 अक्षरे भरा",
+      "step": "पायरी {{current}} / {{total}}"
+    }
+  },
+  "feed": {
+    "empty": "अद्याप स्टेटस नाहीत",
+    "trending": "ट्रेंडिंग"
+  },
+  "settings": {
+    "title": "सेटिंग्ज",
+    "language": "भाषा",
+    "preferences": "प्राधान्ये",
+    "changeLanguage": "भाषा बदला",
+    "theme": "थीम",
+    "support": "सहाय्य",
+    "contactUs": "संपर्क करा",
+    "legalSection": "कायदेशीर",
+    "privacy": "गोपनीयता धोरण",
+    "terms": "नियम व अटी",
+    "refund": "परतावा आणि रद्दीकरण",
+    "about": "आमच्याबद्दल",
+    "account": "खाते",
+    "signOut": "साइन आउट",
+    "signOutConfirm": "तुम्हाला नक्की साइन आउट करायचे आहे का?",
+    "deleteAccount": "खाते हटवा",
+    "deleteConfirm": "यामुळे तुमचे खाते आणि सर्व डेटा कायमचा हटवला जाईल. हे पूर्ववत करता येणार नाही.",
+    "deleteCta": "हटवा",
+    "cancel": "रद्द करा"
+  },
+  "legal": {
+    "privacyTitle": "गोपनीयता धोरण",
+    "termsTitle": "नियम व अटी",
+    "refundTitle": "परतावा आणि रद्दीकरण",
+    "aboutTitle": "आमच्याबद्दल",
+    "aboutBody": "Status Daily हे वैयक्तिकृत स्टेटस इमेज आणि व्हिडिओ तयार करण्याचा आणि शेअर करण्याचा सोपा व जलद मार्ग आहे. प्रत्येक मूड आणि सणासाठी तयार टेम्पलेट निवडा, एका टॅपमध्ये तुमचे नाव आणि फोटो जोडा, आणि काही सेकंदात WhatsApp, Instagram, Facebook वर शेअर करा. भारतभरातील आमच्या समुदायासाठी, तुमच्या भाषेत, प्रेमाने बनवले.",
+    "placeholderBody": "संपूर्ण दस्तऐवज लवकरच येथे उपलब्ध होईल. कोणत्याही प्रश्नांसाठी support@statusdaily.app वर लिहा."
+  },
+  "studio": {
+    "pickPhoto": "तुमचा फोटो निवडा",
+    "export": "एक्सपोर्ट"
+  }
+}

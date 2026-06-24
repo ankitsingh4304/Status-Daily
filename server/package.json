@@ -1,0 +1,16 @@
+{
+  "name": "status-render-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reference FFmpeg video-overlay render service for Status Daily (Phase 1). Hand off to backend to deploy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

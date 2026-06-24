@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "overlay-app",
+    "name": "Status Daily",
     "slug": "overlay-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,7 +19,16 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_MEDIA_AUDIO"
+      ],
+      "package": "com.ankit4304.overlayapp"
     },
     "web": {
       "output": "static",
@@ -38,11 +47,26 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      "expo-video",
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow Status Daily to save your status to the gallery.",
+          "savePhotosPermission": "Allow Status Daily to save your status to the gallery.",
+          "isAccessMediaLocationEnabled": false
+        }
       ]
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a08afdbb-02ea-4971-acbf-5d622530ebd3"
+      }
     }
   }
 }

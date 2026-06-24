@@ -1,0 +1,390 @@
+{
+  "common": {
+    "continue": "Continue",
+    "appName": "Status Daily",
+    "loading": "Loading…",
+    "share": "Share"
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Explore",
+    "upload": "Upload",
+    "saved": "Saved",
+    "profile": "Profile",
+    "studio": "Studio",
+    "reels": "Reels"
+  },
+  "home": {
+    "categories": {
+      "all": "All",
+      "happy": "Happy",
+      "sad": "Sad",
+      "goodMorning": "Good Morning",
+      "goodNight": "Good Night",
+      "friendship": "Friendship",
+      "love": "Love",
+      "motivational": "Motivational",
+      "devotional": "Devotional",
+      "festival": "Festival",
+      "shayari": "Shayari",
+      "birthday": "Birthday",
+      "anniversary": "Anniversary",
+      "attitude": "Attitude",
+      "emotional": "Emotional"
+    },
+    "actions": {
+      "position": "Position",
+      "changePhoto": "Change Photo",
+      "changeDesign": "Change Design",
+      "edit": "Edit",
+      "download": "Download",
+      "shareStatus": "Share",
+      "save": "Save",
+      "saved": "Saved"
+    },
+    "views": "views",
+    "likes": "likes",
+    "more": "More",
+    "allCategories": "All Categories"
+  },
+  "onboarding": {
+    "profile": {
+      "title": "Set up your profile",
+      "subtitle": "Tell us about yourself",
+      "photoHint": "Add profile photo (optional)",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Enter your name",
+      "languageLabel": "Choose your language",
+      "nameError": "Please enter at least 2 characters",
+      "step": "Step {{current}} of {{total}}"
+    }
+  },
+  "saved": {
+    "added": "Saved to your collection",
+    "removed": "Removed from saved",
+    "subtitle": "{{count}} saved statuses",
+    "sortRecent": "Recent",
+    "sortTitle": "A–Z",
+    "sortLikes": "Top likes",
+    "empty": "Nothing saved yet — tap Save on any reel"
+  },
+  "feed": {
+    "empty": "No statuses yet",
+    "trending": "Trending"
+  },
+  "walkthrough": {
+    "skip": "Skip",
+    "next": "Next",
+    "done": "Got it!",
+    "categories": {
+      "title": "Pick a vibe",
+      "text": "Tap any category to find the perfect status for the moment."
+    },
+    "design": {
+      "title": "Change Design",
+      "text": "Tap Change Design to move your name & photo. Swipe up for more templates."
+    },
+    "save": {
+      "title": "Save your favourites",
+      "text": "Tap Save to keep a status in your collection for later."
+    },
+    "share": {
+      "title": "Share to WhatsApp",
+      "text": "Tap Share to post your status straight to WhatsApp."
+    },
+    "download": {
+      "title": "Download to gallery",
+      "text": "Tap Download to save the status to your phone's gallery."
+    }
+  },
+  "subIntro": {
+    "title": "Free vs Premium ✨",
+    "text": "Free: share name statuses with daily limits. Premium: use your own photo, remove limits & unlock everything. Upgrade anytime.",
+    "viewPlans": "View Plans",
+    "later": "Maybe later"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "preferences": "Preferences",
+    "changeLanguage": "Change Language",
+    "theme": "Theme",
+    "religion": "Religion",
+    "support": "Support",
+    "helpSupport": "Help & Support",
+    "helpCenter": "Help Center",
+    "contactUs": "Contact Us",
+    "billing": "Billing & Purchases",
+    "subscriptionRow": "Subscription",
+    "invoicesRow": "Previous Invoices",
+    "testing": "Testing",
+    "testPremium": "Premium (test mode)",
+    "testPremiumHint": "Simulate an active subscription to preview the premium experience. Remove once real billing is live.",
+    "legalSection": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "refund": "Refund & Cancellations",
+    "about": "About Us",
+    "account": "Account",
+    "signOut": "Sign Out",
+    "signOutConfirm": "Are you sure you want to sign out?",
+    "deleteAccount": "Delete Account",
+    "deleteConfirm": "This permanently deletes your account and all your data. This cannot be undone.",
+    "deleteCta": "Delete",
+    "cancel": "Cancel"
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms & Conditions",
+    "refundTitle": "Refund & Cancellations",
+    "aboutTitle": "About Us",
+    "aboutBody": "Status Daily is a simple, fast way to create and share personalized status images and videos. Browse ready-made templates for every mood and festival, add your name and photo with one tap, and share to WhatsApp, Instagram, Facebook and more in seconds. Made with care for our community across India, in your language.",
+    "privacyBody": "Last updated: June 2026\n\nStatus Daily (\"we\", \"our\", \"the app\") respects your privacy. This policy explains what we collect, why, and the choices you have.\n\n1. Information we collect\n• Mobile number — used only to create your account and sign you in.\n• Profile details — the name, photo, language and bio you choose to add. Your photo stays on your device and is only used to create your status; we do not upload it to build a profile of you.\n• Usage data — which templates you open, save and share, so we can show better content. This is linked to your account in a minimal form.\n• Device information — app version, device model and operating system, used for stability and support.\n\n2. How we use your information\nWe use it to run the app, personalize your status designs, improve our templates, keep your saved items in sync, and respond to support requests. We do not sell your personal data.\n\n3. Sharing\nWe share data only with service providers who help us operate the app (for example, SMS delivery and hosting), and only as needed to provide the service. We may disclose information if required by law.\n\n4. Storage and security\nWe keep your data only as long as your account is active. We use reasonable technical and organizational measures to protect it. No method of transmission or storage is completely secure, so we cannot guarantee absolute security.\n\n5. Your choices\nYou can edit your profile at any time, change your language, or delete your account from Settings. Deleting your account removes your profile and associated data from the app.\n\n6. Children\nStatus Daily is not intended for children under 13, and we do not knowingly collect their data.\n\n7. Changes\nWe may update this policy from time to time. Material changes will be reflected here with a new date.\n\n8. Contact\nQuestions? Write to support@statusdaily.app.",
+    "termsBody": "Last updated: June 2026\n\nWelcome to Status Daily. By creating an account or using the app, you agree to these Terms.\n\n1. Your account\nYou must provide a valid mobile number and accurate profile details. You are responsible for activity on your account. You must be at least 13 years old to use Status Daily.\n\n2. Using the app\nStatus Daily lets you personalize and share status images and videos for your own personal, non-commercial use. You agree not to misuse the app, including: uploading unlawful, hateful, obscene or infringing content; impersonating others; attempting to disrupt or reverse-engineer the service; or using it to harass anyone.\n\n3. Content\nThe templates, designs, fonts and artwork in the app are owned by us or our licensors and are provided for use within the app. The photo and text you add remain yours; by using the app you confirm you have the right to use them. You are solely responsible for the status you create and share.\n\n4. Premium features\nSome features may require a paid subscription or purchase. Pricing and what is included are shown before you pay. Purchases are also subject to our Refund & Cancellations policy and the rules of the app store you bought through.\n\n5. Availability\nWe work to keep the app running but provide it \"as is\" without warranties. We may add, change or remove features, and may suspend accounts that violate these Terms.\n\n6. Limitation of liability\nTo the extent permitted by law, Status Daily is not liable for indirect or consequential damages arising from your use of the app.\n\n7. Changes\nWe may update these Terms. Continued use after an update means you accept the revised Terms.\n\n8. Contact\nFor any questions about these Terms, write to support@statusdaily.app.",
+    "refundBody": "Last updated: June 2026\n\nThis policy applies to paid purchases and subscriptions made in Status Daily.\n\n1. Subscriptions\nPremium subscriptions are billed in advance for the period you choose (for example, monthly or yearly). Your subscription renews automatically unless you cancel before the renewal date.\n\n2. Cancellations\nYou can cancel anytime from your app store subscription settings (Google Play or the App Store). When you cancel, you keep premium access until the end of the current paid period; you are not charged again after that.\n\n3. Refunds\nPayments are processed by the app store you purchased through, and refunds are handled under that store's policy. If you believe you were charged in error or have not received what you paid for, contact us within 7 days of the charge and we will review your request and assist with the store where applicable.\n\n4. One-time purchases\nOne-time purchases (such as a content pack) are generally non-refundable once the content has been delivered, except where required by law or the app store's rules.\n\n5. How to reach us\nFor billing questions or refund help, write to support@statusdaily.app with your registered mobile number and the date of the charge.",
+    "placeholderBody": "The full document will be available here soon. For any questions, write to support@statusdaily.app."
+  },
+  "religion": {
+    "title": "Religion",
+    "subtitle": "We use this only to suggest devotional statuses you'll love — for festivals, prayers and good-morning wishes. You can change or skip it anytime.",
+    "none": "Prefer not to say",
+    "hindu": "Hindu",
+    "muslim": "Muslim",
+    "christian": "Christian",
+    "sikh": "Sikh",
+    "buddhist": "Buddhist",
+    "jain": "Jain",
+    "saved": "Religion preference updated"
+  },
+  "invoices": {
+    "title": "Previous Invoices",
+    "subtitle": "Your payments and subscription receipts",
+    "empty": "No invoices yet",
+    "emptyBody": "When you upgrade to a premium plan, your invoices and receipts will appear here. Payments are billed securely through Google Play or the App Store.",
+    "statusPaid": "Paid",
+    "statusRefunded": "Refunded",
+    "download": "Download receipt",
+    "downloadSoon": "Receipts will be downloadable once billing is live.",
+    "help": "Have a billing question?",
+    "helpCta": "Contact support"
+  },
+  "help": {
+    "title": "Help & Support",
+    "subtitle": "We're here to help you create and share with ease.",
+    "searchHint": "Browse common questions or reach our team directly.",
+    "faqTitle": "Frequently asked questions",
+    "contactTitle": "Still need help?",
+    "responseNote": "Our team usually replies within 24 hours.",
+    "email": "Email us",
+    "whatsapp": "Chat on WhatsApp",
+    "report": "Report a problem",
+    "rate": "Rate Status Daily",
+    "faq": {
+      "q1": "How do I create a status?",
+      "a1": "Open the Home tab, pick any template you like, then add your name and photo. Tap Edit to adjust the look, then Download or Share — your status is ready in seconds.",
+      "q2": "How do I add my photo and name?",
+      "a2": "On the personalize screen, tap Change Photo to choose a picture from your gallery and type your name in the name field. You can drag the photo and text to position them exactly how you want.",
+      "q3": "How do I share to WhatsApp?",
+      "a3": "After your status is ready, tap Share and choose WhatsApp. You can also tap Download to save it to your gallery and share it later from anywhere.",
+      "q4": "Where are my saved statuses?",
+      "a4": "Everything you save appears in the Saved tab. Tap any saved card to edit it again or share it instantly.",
+      "q5": "How do I change the app language?",
+      "a5": "Go to Settings → Change Language and pick from English, Hindi, Marathi, Tamil, Telugu, Kannada or Malayalam. The whole app updates instantly.",
+      "q6": "Is Status Daily free?",
+      "a6": "Yes — you can browse templates and create statuses for free. Some premium templates and features may need a paid plan, and you'll always see the price before you pay.",
+      "q7": "What do I get with Premium?",
+      "a7": "Premium removes the daily limits and lets you share and download statuses with your own photo, plus access to premium templates. Free users can always create and share name-only statuses within the daily limit.",
+      "q8": "What are the plans and prices?",
+      "a8": "There are three plans — a ₹2 trial for 7 days, ₹59 per month, and ₹499 per year (best value). You can start from the Upgrade screen in Settings or your Profile.",
+      "q9": "How does AutoPay work?",
+      "a9": "When you subscribe, you approve a UPI AutoPay mandate so renewals happen automatically. If you don't have UPI, we show a QR code that a family member can scan and approve on your behalf. You're only charged the plan amount shown.",
+      "q10": "How do I cancel my subscription or AutoPay?",
+      "a10": "Open your Profile → Subscription and tap Cancel AutoPay. Your Premium access stays active until the end of the current period, and you won't be charged again. You can also manage the mandate from your UPI app."
+    }
+  },
+  "subscription": {
+    "title": "Go Premium",
+    "subtitle": "Unlock your photo on every status — no limits.",
+    "reasonPhoto": "Sharing a status with your photo is a Premium feature.",
+    "reasonLimit": "You've used today's free shares. Go Premium for unlimited.",
+    "benefit1": "Share & download with your own photo",
+    "benefit2": "Unlimited downloads and shares",
+    "benefit3": "Access premium templates",
+    "benefit4": "No watermark",
+    "choosePlan": "Choose your plan",
+    "periodTrial": "for 7 days",
+    "periodMonth": "per month",
+    "periodYear": "per year",
+    "badgeTrial": "Try it",
+    "badgeYear": "Save 30%",
+    "taglineTrial": "Full access for a week",
+    "taglineMonth": "Billed every month",
+    "taglineYear": "Best value — just ₹42/month",
+    "autopayTitle": "Set up AutoPay",
+    "autopaySubtitle": "Approve a UPI AutoPay mandate so your plan renews automatically.",
+    "methodUpi": "I have UPI",
+    "methodQr": "Scan QR",
+    "upiCta": "Set up AutoPay via UPI",
+    "upiHint": "Opens your UPI app (PhonePe, GPay, Paytm…) to approve the mandate.",
+    "qrHint": "No UPI? Ask a family member to scan this QR and approve AutoPay for you.",
+    "payNote": "You pay {{price}} now. Renews automatically — cancel anytime.",
+    "startCta": "Subscribe · {{price}}",
+    "testNote": "Test mode — activation is simulated until billing goes live.",
+    "success": "Premium activated 🎉",
+    "activeTitle": "Status Daily Premium",
+    "freeTitle": "Free plan",
+    "freeSubtitle": "Name-only statuses, with daily limits.",
+    "upgrade": "Upgrade to Premium",
+    "manage": "Manage subscription",
+    "activePlan": "Active plan",
+    "started": "Started",
+    "renews": "Renews on",
+    "expires": "Expires on",
+    "daysLeft": "{{count}} days left",
+    "autoRenewOn": "Auto-renew is ON",
+    "autoRenewOff": "Auto-renew is OFF — access ends on expiry",
+    "autopayVia": "AutoPay via {{method}}",
+    "cancelAutopay": "Cancel AutoPay",
+    "cancelConfirm": "Your Premium stays active until it expires, and you won't be charged again. Continue?",
+    "cancelDone": "Auto-renew turned off",
+    "keep": "Keep Premium",
+    "plan": {
+      "free": "Free",
+      "trial": "Trial",
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    },
+    "method": {
+      "upi": "UPI",
+      "qr": "QR"
+    }
+  },
+  "studio": {
+    "pickPhoto": "Pick your photo",
+    "export": "Export"
+  },
+  "editor": {
+    "title": "Personalize Status",
+    "back": "Back",
+    "yourName": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "statusText": "Status Text",
+    "statusPlaceholder": "Good Morning",
+    "customizeLook": "Customize look",
+    "photoShape": "Photo shape",
+    "photoBorder": "Photo border",
+    "photoGlow": "Photo glow",
+    "photoSize": "Photo size",
+    "photoPosition": "Photo position",
+    "horizontal": "Horizontal",
+    "vertical": "Vertical",
+    "nameColor": "Name color",
+    "nameSize": "Name size",
+    "fontWeight": "Font weight",
+    "statusStyle": "Status text",
+    "textAlign": "Alignment",
+    "textShadow": "Text shadow",
+    "textGlow": "Text glow",
+    "presets": "Design presets",
+    "statusReady": "Status ready!",
+    "shareWhatsapp": "WhatsApp",
+    "shareInstagram": "Instagram",
+    "shareFacebook": "Facebook",
+    "shareMore": "More",
+    "download": "Download",
+    "downloadSuccess": "Saved to your gallery!",
+    "exportError": "Export failed",
+    "textPosition": "Text position",
+    "dragTextHint": "Drag status text on preview",
+    "dragPhotoHint": "Drag photo to move it",
+    "dragNameHint": "Drag name to move it separately",
+    "editAgain": "Edit again",
+    "shapes": {
+      "circle": "Circle",
+      "rounded": "Rounded",
+      "square": "Square"
+    },
+    "borders": {
+      "gradient": "Gradient",
+      "white": "White",
+      "black": "Black",
+      "gold": "Gold",
+      "none": "None"
+    },
+    "presetsList": {
+      "motivational": "Motivational",
+      "devotional": "Devotional",
+      "romantic": "Romantic",
+      "dark": "Dark",
+      "festival": "Festival",
+      "minimal": "Minimal",
+      "emotional": "Emotional",
+      "neon": "Neon"
+    },
+    "weights": {
+      "medium": "Medium",
+      "semibold": "Semi",
+      "bold": "Bold",
+      "extrabold": "Extra"
+    },
+    "aligns": {
+      "left": "Left",
+      "center": "Center",
+      "right": "Right"
+    }
+  },
+  "profile": {
+    "title": "My Profile",
+    "bioDefault": "Creating vibes, one status at a time ✨",
+    "joined": "Joined {{date}}",
+    "streak": "Daily streak",
+    "streakDays": "{{count}} days",
+    "languageBadge": "Language",
+    "stats": {
+      "created": "Created",
+      "downloads": "Downloads",
+      "likes": "Likes",
+      "shares": "Shares",
+      "savedDesigns": "Saved"
+    },
+    "tabs": {
+      "statuses": "My Status",
+      "saved": "Saved",
+      "downloads": "Downloads",
+      "favorites": "Favorites"
+    },
+    "engagement": {
+      "title": "Your highlights",
+      "topCategory": "Top category",
+      "trending": "Trending status",
+      "topDesign": "Top design"
+    },
+    "actions": {
+      "editProfile": "Edit Profile",
+      "changeLanguage": "Change Language",
+      "customizeTheme": "Customize Theme",
+      "savedDesigns": "Saved Designs",
+      "notifications": "Notifications",
+      "privacy": "Privacy Settings",
+      "shareProfile": "Share Profile",
+      "logout": "Logout"
+    },
+    "edit": {
+      "title": "Edit Profile",
+      "save": "Save changes",
+      "cancel": "Cancel",
+      "bioLabel": "Bio",
+      "bioPlaceholder": "Tell your story…",
+      "themeLabel": "App theme"
+    },
+    "themes": {
+      "light": "Soft Light",
+      "dark": "Dark Premium",
+      "gradient": "Gradient",
+      "amoled": "AMOLED"
+    },
+    "empty": "No items yet — create your first status!",
+    "logoutConfirm": "You will need to sign in again.",
+    "logoutTitle": "Log out?"
+  }
+}

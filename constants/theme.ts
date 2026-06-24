@@ -1,53 +1,39 @@
 /**
- * Below are the colors that are used in the app. The colors are defined in the light and dark mode.
- * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
+ * Theme colors + font families used across the app.
  */
 
 import { Platform } from 'react-native';
-
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+import { BrandColors } from '@/constants/brand';
+import { BrandFonts } from '@/constants/typography';
 
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
+    text: BrandColors.text,
+    background: BrandColors.bg,
+    tint: BrandColors.orange,
+    icon: BrandColors.textSecondary,
+    tabIconDefault: BrandColors.textMuted,
+    tabIconSelected: BrandColors.orange,
   },
   dark: {
-    text: '#ECEDEE',
-    background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
+    text: '#F4F4F5',
+    background: '#1A1208',
+    tint: BrandColors.gold,
+    icon: '#A1A1AA',
+    tabIconDefault: '#A1A1AA',
+    tabIconSelected: BrandColors.gold,
+    surface: 'rgba(255, 248, 240, 0.08)',
+    elevatedSurface: 'rgba(255, 248, 240, 0.12)',
   },
 };
 
-export const Fonts = Platform.select({
-  ios: {
-    /** iOS `UIFontDescriptorSystemDesignDefault` */
-    sans: 'system-ui',
-    /** iOS `UIFontDescriptorSystemDesignSerif` */
-    serif: 'ui-serif',
-    /** iOS `UIFontDescriptorSystemDesignRounded` */
-    rounded: 'ui-rounded',
-    /** iOS `UIFontDescriptorSystemDesignMonospaced` */
-    mono: 'ui-monospace',
-  },
-  default: {
-    sans: 'normal',
-    serif: 'serif',
-    rounded: 'normal',
-    mono: 'monospace',
-  },
-  web: {
-    sans: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
-    serif: "Georgia, 'Times New Roman', serif",
-    rounded: "'SF Pro Rounded', 'Hiragino Maru Gothic ProN', Meiryo, 'MS PGothic', sans-serif",
-    mono: "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
-  },
-});
+export const Fonts = {
+  sans: BrandFonts.regular,
+  serif: Platform.select({ ios: 'ui-serif', default: 'serif', web: "Georgia, 'Times New Roman', serif" }),
+  rounded: Platform.select({ ios: 'ui-rounded', default: 'normal', web: "'SF Pro Rounded', sans-serif" }),
+  mono: Platform.select({ ios: 'ui-monospace', default: 'monospace', web: 'monospace' }),
+  heading: BrandFonts.bold,
+  subheading: BrandFonts.semibold,
+  medium: BrandFonts.medium,
+  micro: BrandFonts.bold,
+};

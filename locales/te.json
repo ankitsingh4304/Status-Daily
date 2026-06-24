@@ -1,0 +1,93 @@
+{
+  "common": {
+    "continue": "కొనసాగించు",
+    "appName": "Status Daily",
+    "loading": "లోడ్ అవుతోంది…",
+    "share": "షేర్"
+  },
+  "tabs": {
+    "home": "హోమ్",
+    "explore": "అన్వేషించు",
+    "upload": "అప్‌లోడ్",
+    "saved": "సేవ్",
+    "profile": "ప్రొఫైల్",
+    "studio": "స్టూడియో",
+    "reels": "రీల్స్"
+  },
+  "home": {
+    "categories": {
+      "all": "అన్నీ",
+      "happy": "సంతోషం",
+      "sad": "విచారం",
+      "goodMorning": "శుభోదయం",
+      "goodNight": "శుభ రాత్రి",
+      "friendship": "స్నేహం",
+      "love": "ప్రేమ",
+      "motivational": "ప్రేరణ",
+      "devotional": "భక్తి",
+      "festival": "పండుగ",
+      "shayari": "షాయరీ",
+      "birthday": "పుట్టినరోజు",
+      "anniversary": "వార్షికోత్సవం",
+      "attitude": "అటిట్యూడ్",
+      "emotional": "భావోద్వేగం"
+    },
+    "actions": {
+      "position": "స్థానం",
+      "edit": "ఎడిట్",
+      "download": "సేవ్",
+      "shareStatus": "స్టేటస్"
+    },
+    "views": "వీక్షణలు",
+    "likes": "లైక్స్"
+  },
+  "onboarding": {
+    "profile": {
+      "title": "మీ ప్రొఫైల్ సెటప్ చేయండి",
+      "subtitle": "మీ గురించి చెప్పండి",
+      "photoHint": "ప్రొఫైల్ ఫోటో జోడించండి (ఐచ్ఛికం)",
+      "nameLabel": "మీ పేరు",
+      "namePlaceholder": "పేరు నమోదు చేయండి",
+      "languageLabel": "మీ భాష ఎంచుకోండి",
+      "nameError": "కనీసం 2 అక్షరాలు నమోదు చేయండి",
+      "step": "దశ {{current}} / {{total}}"
+    }
+  },
+  "feed": {
+    "empty": "ఇంకా స్టేటస్ లేవు",
+    "trending": "ట్రెండింగ్"
+  },
+  "settings": {
+    "title": "సెట్టింగ్స్",
+    "language": "భాష",
+    "preferences": "ప్రాధాన్యతలు",
+    "changeLanguage": "భాష మార్చండి",
+    "theme": "థీమ్",
+    "support": "మద్దతు",
+    "contactUs": "మమ్మల్ని సంప్రదించండి",
+    "legalSection": "చట్టపరమైన",
+    "privacy": "గోప్యతా విధానం",
+    "terms": "నిబంధనలు & షరతులు",
+    "refund": "రీఫండ్ & రద్దు",
+    "about": "మా గురించి",
+    "account": "ఖాతా",
+    "signOut": "సైన్ అవుట్",
+    "signOutConfirm": "మీరు ఖచ్చితంగా సైన్ అవుట్ చేయాలనుకుంటున్నారా?",
+    "deleteAccount": "ఖాతా తొలగించండి",
+    "deleteConfirm": "ఇది మీ ఖాతా మరియు మొత్తం డేటాను శాశ్వతంగా తొలగిస్తుంది. దీన్ని రద్దు చేయలేరు.",
+    "deleteCta": "తొలగించు",
+    "cancel": "రద్దు"
+  },
+  "legal": {
+    "privacyTitle": "గోప్యతా విధానం",
+    "termsTitle": "నిబంధనలు & షరతులు",
+    "refundTitle": "రీఫండ్ & రద్దు",
+    "aboutTitle": "మా గురించి",
+    "aboutBody": "Status Daily అనేది వ్యక్తిగతీకరించిన స్టేటస్ చిత్రాలు మరియు వీడియోలను సృష్టించి షేర్ చేయడానికి సులభమైన, వేగవంతమైన మార్గం. ప్రతి మూడ్ మరియు పండుగ కోసం సిద్ధంగా ఉన్న టెంప్లేట్‌లను చూడండి, ఒక్క ట్యాప్‌లో మీ పేరు మరియు ఫోటోను జోడించండి, కొన్ని సెకన్లలో WhatsApp, Instagram, Facebook లో షేర్ చేయండి. భారతదేశం అంతటా ఉన్న మా సమాజం కోసం, మీ భాషలో, ప్రేమతో రూపొందించబడింది.",
+    "placeholderBody": "పూర్తి పత్రం త్వరలో ఇక్కడ అందుబాటులో ఉంటుంది. ఏవైనా ప్రశ్నలకు support@statusdaily.app కు వ్రాయండి."
+  },
+  "studio": {
+    "pickPhoto": "ఫోటో ఎంచుకోండి",
+    "export": "ఎగుమతి"
+  }
+}

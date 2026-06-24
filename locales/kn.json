@@ -1,0 +1,93 @@
+{
+  "common": {
+    "continue": "ಮುಂದುವರಿಸಿ",
+    "appName": "Status Daily",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ…",
+    "share": "ಹಂಚಿಕೊಳ್ಳಿ"
+  },
+  "tabs": {
+    "home": "ಮುಖಪುಟ",
+    "explore": "ಅನ್ವೇಷಿಸಿ",
+    "upload": "ಅಪ್‌ಲೋಡ್",
+    "saved": "ಉಳಿಸಿದ",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "studio": "ಸ್ಟುಡಿಯೋ",
+    "reels": "ರೀಲ್ಸ್"
+  },
+  "home": {
+    "categories": {
+      "all": "ಎಲ್ಲಾ",
+      "happy": "ಸಂತೋಷ",
+      "sad": "ದುಃಖ",
+      "goodMorning": "ಶುಭೋದಯ",
+      "goodNight": "ಶುಭ ರಾತ್ರಿ",
+      "friendship": "ಸ್ನೇಹ",
+      "love": "ಪ್ರೀತಿ",
+      "motivational": "ಪ್ರೇರಣೆ",
+      "devotional": "ಭಕ್ತಿ",
+      "festival": "ಹಬ್ಬ",
+      "shayari": "ಶಾಯರಿ",
+      "birthday": "ಜನ್ಮದಿನ",
+      "anniversary": "ವಾರ್ಷಿಕೋತ್ಸವ",
+      "attitude": "ವಲಯ",
+      "emotional": "ಭಾವನೆ"
+    },
+    "actions": {
+      "position": "ಸ್ಥಾನ",
+      "edit": "ಸಂಪಾದನೆ",
+      "download": "ಉಳಿಸಿ",
+      "shareStatus": "ಸ್ಟೇಟಸ್"
+    },
+    "views": "ವೀಕ್ಷಣೆ",
+    "likes": "ಲೈಕ್"
+  },
+  "onboarding": {
+    "profile": {
+      "title": "ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಸೆಟ್ ಮಾಡಿ",
+      "subtitle": "ನಿಮ್ಮ ಬಗ್ಗೆ ಹೇಳಿ",
+      "photoHint": "ಪ್ರೊಫೈಲ್ ಫೋಟೋ ಸೇರಿಸಿ (ಐಚ್ಛಿಕ)",
+      "nameLabel": "ನಿಮ್ಮ ಹೆಸರು",
+      "namePlaceholder": "ಹೆಸರು ನಮೂದಿಸಿ",
+      "languageLabel": "ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ",
+      "nameError": "ಕನಿಷ್ಠ 2 ಅಕ್ಷರಗಳನ್ನು ನಮೂದಿಸಿ",
+      "step": "ಹಂತ {{current}} / {{total}}"
+    }
+  },
+  "feed": {
+    "empty": "ಇನ್ನೂ ಸ್ಟೇಟಸ್ ಇಲ್ಲ",
+    "trending": "ಟ್ರೆಂಡಿಂಗ್"
+  },
+  "settings": {
+    "title": "ಸೆಟ್ಟಿಂಗ್ಸ್",
+    "language": "ಭಾಷೆ",
+    "preferences": "ಆದ್ಯತೆಗಳು",
+    "changeLanguage": "ಭಾಷೆ ಬದಲಾಯಿಸಿ",
+    "theme": "ಥೀಮ್",
+    "support": "ಬೆಂಬಲ",
+    "contactUs": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
+    "legalSection": "ಕಾನೂನು",
+    "privacy": "ಗೌಪ್ಯತಾ ನೀತಿ",
+    "terms": "ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು",
+    "refund": "ಮರುಪಾವತಿ ಮತ್ತು ರದ್ದತಿ",
+    "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+    "account": "ಖಾತೆ",
+    "signOut": "ಸೈನ್ ಔಟ್",
+    "signOutConfirm": "ನೀವು ಖಚಿತವಾಗಿ ಸೈನ್ ಔಟ್ ಮಾಡಲು ಬಯಸುವಿರಾ?",
+    "deleteAccount": "ಖಾತೆ ಅಳಿಸಿ",
+    "deleteConfirm": "ಇದು ನಿಮ್ಮ ಖಾತೆ ಮತ್ತು ಎಲ್ಲಾ ಡೇಟಾವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುತ್ತದೆ. ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗದು.",
+    "deleteCta": "ಅಳಿಸಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ"
+  },
+  "legal": {
+    "privacyTitle": "ಗೌಪ್ಯತಾ ನೀತಿ",
+    "termsTitle": "ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು",
+    "refundTitle": "ಮರುಪಾವತಿ ಮತ್ತು ರದ್ದತಿ",
+    "aboutTitle": "ನಮ್ಮ ಬಗ್ಗೆ",
+    "aboutBody": "Status Daily ಎಂಬುದು ವೈಯಕ್ತಿಕ ಸ್ಟೇಟಸ್ ಚಿತ್ರಗಳು ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ರಚಿಸಲು ಮತ್ತು ಹಂಚಿಕೊಳ್ಳಲು ಸುಲಭ, ವೇಗದ ಮಾರ್ಗ. ಪ್ರತಿ ಮೂಡ್ ಮತ್ತು ಹಬ್ಬಕ್ಕೆ ಸಿದ್ಧ ಟೆಂಪ್ಲೇಟ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ, ಒಂದು ಟ್ಯಾಪ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಹೆಸರು ಮತ್ತು ಫೋಟೋ ಸೇರಿಸಿ, ಕೆಲವೇ ಸೆಕೆಂಡುಗಳಲ್ಲಿ WhatsApp, Instagram, Facebook ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ. ಭಾರತದಾದ್ಯಂತ ನಮ್ಮ ಸಮುದಾಯಕ್ಕಾಗಿ, ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ, ಪ್ರೀತಿಯಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+    "placeholderBody": "ಸಂಪೂರ್ಣ ದಾಖಲೆ ಶೀಘ್ರದಲ್ಲೇ ಇಲ್ಲಿ ಲಭ್ಯವಿರುತ್ತದೆ. ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿಗೆ support@statusdaily.app ಗೆ ಬರೆಯಿರಿ."
+  },
+  "studio": {
+    "pickPhoto": "ಫೋಟೋ ಆಯ್ಕೆ",
+    "export": "ರಫ್ತು"
+  }
+}
